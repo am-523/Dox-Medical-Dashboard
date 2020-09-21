@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dox Medical Dashboard", "Dox Medical Dashboard.csproj", "{8ED6F9DF-D0E4-47E2-870E-2D2BEB68B949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED6F9DF-D0E4-47E2-870E-2D2BEB68B949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED6F9DF-D0E4-47E2-870E-2D2BEB68B949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED6F9DF-D0E4-47E2-870E-2D2BEB68B949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED6F9DF-D0E4-47E2-870E-2D2BEB68B949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4476FE54-A420-41F2-B752-756E7740262C}
+	EndGlobalSection
+EndGlobal
